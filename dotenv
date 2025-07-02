@@ -1,0 +1,9 @@
+# .envファイルにリネームしてください
+# このファイルはGitにコミットしないでください
+#
+# ここにあなたのGemini APIキーを貼り付けてください
+GEMINI_API_KEY="hogehoge"
+# MODELは以下が利用できることを確認しました
+# gemini-2.5-pro
+# gemini-2.5-flash
+MODEL="gemini-2.5-pro"

@@ -1,0 +1,14 @@
+# APIキーなどの機密情報を含む .env ファイル
+.env
+
+# Goのビルドによって生成される実行可能ファイル
+hello-gemini-go
+*.exe
+
+# Goモジュールの依存関係キャッシュ
+# go.sum はリポジトリに含めるのが一般的です
+/vendor/
+
+# その他のOS固有ファイル
+.DS_Store
+Thumbs.db
